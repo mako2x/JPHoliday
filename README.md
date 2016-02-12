@@ -19,7 +19,7 @@ for holiday in JPHoliday.holidays(year: 2015) {
 
 ## Requirement
 
- - iOS 8.0 or later (by Carthage or Cocoapods) / iOS 7 (by manually)
+ - iOS 8.0 or later (by Carthage or CocoaPods) / iOS 7 (by manually)
  - Xcode 7.0 or later
 
 ## Install
@@ -38,7 +38,7 @@ Then, run the following command:
 $ carthage update
 ```
 
-### Cocoapods
+### CocoaPods
 
 Specify it in your Podfile:
 
